@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saieswar246
-- 👀 I’m interested in Programming and Physics 
-- 🌱 I’m currently learning Cybersecurity 
+- 👀 I’m interested in Ethical Hacking, Forensics and Physics 
+- 🌱 I’m currently in the MSc Cybersecurity Program 
 - 
 -
 
